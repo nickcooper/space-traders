@@ -1,2 +1,6 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+h1 {
+    font-size: var(--text-2xl)
+}
